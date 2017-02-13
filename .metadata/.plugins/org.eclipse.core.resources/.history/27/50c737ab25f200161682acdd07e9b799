@@ -1,0 +1,11 @@
+package switches;
+
+public class switchDayofWeek 
+{
+
+	public static void main(String[] args) 
+	{
+
+	}
+
+}
